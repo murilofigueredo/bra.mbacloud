@@ -1,0 +1,83 @@
+[
+
+    {
+        "integrante": 1,
+        "estado": "SP",
+        "idade" : 35,
+        "pet" : "true",
+        "music": [
+            {"name":"Save Your Tears", "estilo": "Pop"}
+        ]
+    },
+ 
+    {
+        "integrante": 2,
+        "estado": "PR",
+        "idade" : 44,
+        "pet" : "true",
+        "music": [
+            {"name":"A Thousand Years", "estilo": "Internacional"}
+        ]
+    },
+ 
+     {
+        "integrante": 3,
+        "estado": "SP",
+        "idade" : 28,
+        "pet" : "false",
+        "music": [
+            {"name":"Before I Forget", "estilo": "Rock"}
+        ]
+    },
+    
+        {
+        "integrante": 4,
+        "estado": "SP",
+        "idade" : 35,
+        "pet" : "false",
+        "music": [
+            {"name":"Best day of my life", "estilo": "Internacional"}
+        ]
+    },
+
+    {
+        "integrante": 5,
+        "estado": "SP",
+        "idade" : 35,
+        "pet" : "true",
+        "music": [
+            {"name":"Ciranda Cirandinha", "estilo": "Outro"}
+        ]
+    },
+ 
+    {
+        "integrante": 6,
+        "estado": "MS",
+        "idade" : 32,
+        "pet" : "false",
+        "music": [
+            {"name":"Party On my Own", "estilo": "Outro"}
+        ]
+    },
+ 
+     {
+        "integrante": 7,
+        "estado": "SP",
+        "idade" : 33,
+        "pet" : "true",
+        "music": [
+            {"name":"Unstoppable", "estilo": "Pop"}
+        ]
+    },
+    
+        {
+        "integrante": 8,
+        "estado": "PR",
+        "idade" : 56,
+        "pet" : "true",
+        "music": [
+            {"name":"Paranoid", "estilo": "Rock"}
+        ]
+    }
+  
+ ]
